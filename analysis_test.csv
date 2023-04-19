@@ -1,0 +1,67 @@
+Team Lime's analysis of sales dataset
+ 
+Product name, Total sales
+Amazon Echo Dot,799.80
+Apple Watch,1599.96
+Apples,351.68
+Backpacks,512.73
+Books,215.82
+Candles,66.31
+Cuisinart Food Processor,799.96
+Dyson Vacuum,1199.98
+Fitbit Charge 5,1349.91
+Harry Potter,399.75
+Hats,1049.65
+Headphones,359.60
+Lawn mower,2975.76
+Levi's Jeans,1079.82
+Lululemon Yoga Mat,1349.85
+Michael Kors Handbag,2799.92
+Nest Thermostat,1499.94
+Ninja Blender,1299.90
+Oakley Sunglasses,1799.88
+Patagonia Fleece,719.94
+Phone cases,301.00
+Picture frames,83.98
+Samsung Galaxy,4499.95
+Schwinn Exercise Bike,1499.97
+Sonos Soundbar,799.99
+Sony PlayStation 5,1999.96
+Sunglasses,318.30
+T-shirts,219.80
+Toys,521.71
+Under Armour T-Shirt,899.70
+Water bottles,311.08
+iPhone 13,3899.97
+iRobot Roomba Vacuum,799.98
+ 
+Product category, Average sale price
+Accessories,57.071933
+Clothing,39.449459
+Electronics,139.806176
+Fitness,155.545556
+Food,10.990000
+Home,349.990000
+Home decor,7.156667
+Kitchen,149.9900002
+Media,14.315581
+Outdoor,123.990000
+Toys,17.990000
+ 
+The month with the highest sales was February with £6499.66
+The month with the lowest sales was October with £359.6
+ 
+Customer name, Quantity bought, Amount spent
+Emily Davis,55,3848.90
+Amy Lee,52,2294.76
+Chris Brown,50,6949.00
+John Smith,49,25821.53
+Samantha Davis,46,17662.62
+Michael Johnson,44,29082.68
+Kimberly White,41,6887.18
+Kelly Williams,30,3336.30
+Mark Johnson,28,36736.84
+Robert Johnson,28,14895.16
+ 
+The median sale price is: 89.99
+The standard deviation of sale price is: 307.9763734539895
